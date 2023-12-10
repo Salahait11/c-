@@ -1,0 +1,16 @@
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\bin\Debug\net8.0-windows\remise.exe
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\bin\Debug\net8.0-windows\remise.deps.json
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\bin\Debug\net8.0-windows\remise.runtimeconfig.json
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\bin\Debug\net8.0-windows\remise.dll
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\bin\Debug\net8.0-windows\remise.pdb
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.Form1.resources
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.csproj.GenerateResource.cache
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.AssemblyInfoInputs.cache
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.AssemblyInfo.cs
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.csproj.CoreCompileInputs.cache
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.dll
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\refint\remise.dll
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.pdb
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\remise.genruntimeconfig.cache
+C:\Users\aitha\Desktop\DI 1\PROGRAMMATION EVEMENTIELLE\remise\remise\obj\Debug\net8.0-windows\ref\remise.dll
